@@ -70,8 +70,8 @@ This project is an **Electromyography (EMG)-based strength indicator** that ligh
 This EMG-based strength indicator has diverse use cases across healthcare, sports, and education:
 
 ⚙️ Application Area	📋 Description
-**Rehabilitation Therapy**-	Provides visual feedback for patients recovering from injuries or surgeries. Helps monitor and motivate muscle engagement.
-**Prosthetic Control**-	Can be adapted to trigger movements in prosthetic limbs using muscle signals.
-**Sports Performance**-	Allows athletes to observe muscle engagement levels during training and optimize routines.
-**Wearable Biofeedback**-	Can be miniaturized and worn to continuously monitor muscle activity for stress or fatigue tracking.
-**Biomedical Education**-	A practical tool to demonstrate signal acquisition, conditioning, and interpretation of EMG signals.
+-**Rehabilitation Therapy**-	Provides visual feedback for patients recovering from injuries or surgeries. Helps monitor and motivate muscle engagement.
+-**Prosthetic Control**-	Can be adapted to trigger movements in prosthetic limbs using muscle signals.
+-**Sports Performance**-	Allows athletes to observe muscle engagement levels during training and optimize routines.
+-**Wearable Biofeedback**-	Can be miniaturized and worn to continuously monitor muscle activity for stress or fatigue tracking.
+-**Biomedical Education**-	A practical tool to demonstrate signal acquisition, conditioning, and interpretation of EMG signals.
