@@ -22,18 +22,18 @@ This project is an **Electromyography (EMG)-based strength indicator** that ligh
 
 2. **Signal Amplification (INA128)**
    - Amplifies the raw EMG signal (µV-level) to a readable voltage level.
-   - Gain is set typically between 500–1000.
+   - Gain is set to 200 using R_G = 253 ohms.
 
 3. **Filtering**
    - Two cascaded **Sallen-Key 2nd-order Low-Pass Filters**.
-   - Cutoff frequency ~150 Hz to retain EMG envelope and remove high-frequency noise.
+   - Cutoff frequency ~490 Hz to retain EMG envelope and remove high-frequency noise.
 
 4. **Full-Wave Precision Rectifier**
    - Converts the AC EMG signal into a positive voltage envelope.
 
 5. **Comparator Stage**
    - Compares the processed signal against preset thresholds.
-   - Drives 3-5 LEDs to indicate increasing levels of muscle activation.
+   - Drives 3 LEDs to indicate increasing levels of muscle activation.
 
 ---
 
