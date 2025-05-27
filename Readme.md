@@ -3,7 +3,7 @@
 This project is an **Electromyography (EMG)-based strength indicator** that lights up LEDs according to the muscle activation level. It uses **dry electrodes**, **analog filtering and amplification**, and **signal conditioning** to give real-time muscle activity feedback — ideal for educational, prosthetic, or physiotherapy applications.
 
 ---
-![Project Banner](images/pwelcome.jpg)
+![Device Image](images/welcome.jpg)
 ## 🔧 System Overview
 
 **Components Used:**
