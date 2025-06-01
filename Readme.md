@@ -36,7 +36,7 @@ This project is an **Electromyography (EMG)-based strength indicator** that ligh
 5. **Comparator Stage**
    - Compares the processed signal against preset thresholds.
    - Drives 3 LEDs to indicate increasing levels of muscle activation.
-![Results](images/emg.jpg)
+![Results](images/emg .jpg)
 ---
 
 
